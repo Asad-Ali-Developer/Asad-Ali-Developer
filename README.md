@@ -1,4 +1,5 @@
-# 🙋🏻‍♂️ Welcome to my profile!
+<img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;Happy+Coding!+%F0%9F%91%8D" alt="Typing Animation" />
+
 
 🌟 "Crafting Ideas into Code" 🌟
 💻 Passionate Full-Stack Developer | 🛠️ Problem Solver | 🚀 Tech Enthusiast
