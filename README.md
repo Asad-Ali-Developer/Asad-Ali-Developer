@@ -2,6 +2,16 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;Happy+Coding!+%F0%9F%91%8D" alt="Typing Animation" />
 
+<p align="center">
+   <a href="https://x.com/AsadAliNajaf" target="_blank">
+     <img src="https://img.shields.io/badge/Follow%20on-X-1DA1F2?style=social&logo=x&logoColor=white" alt="Follow on X" />
+   </a>  
+   <a href="https://www.linkedin.com/in/AsadAliNajaf" target="_blank">
+     <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white"  alt="Follow on LinkedIn" />
+   </a>
+</p>
+
+
 
 🌟 "Crafting Ideas into Code" 🌟
 💻 Passionate Full-Stack Developer | 🛠️ Problem Solver | 🚀 Tech Enthusiast
