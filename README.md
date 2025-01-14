@@ -2,14 +2,14 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;Happy+Coding!+%F0%9F%91%8D" alt="Typing Animation" />
 
-<p align="center">
-   <a href="https://x.com/AsadAliNajaf" target="_blank">
-     <img src="https://img.shields.io/badge/Follow%20on-X-1DA1F2?style=social&logo=x&logoColor=white" alt="Follow on X" />
-   </a>  
-   <a href="https://www.linkedin.com/in/AsadAliNajaf" target="_blank">
-     <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white"  alt="Follow on LinkedIn" />
-   </a>
-</p>
+<!-- <p align="center"> -->
+<!--    <a href="https://x.com/AsadAliNajaf" target="_blank"> -->
+<!--      <img src="https://img.shields.io/badge/Follow%20on-X-1DA1F2?style=social&logo=x&logoColor=white" alt="Follow on X" /> -->
+<!--    </a>   -->
+<!--    <a href="https://www.linkedin.com/in/AsadAliNajaf" target="_blank"> -->
+<!--      <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-0A66C2?style=social&logo=linkedin&logoColor=white"  alt="Follow on LinkedIn" /> -->
+<!--    </a> -->
+<!-- </p> -->
 
 
 
@@ -76,6 +76,17 @@
   <!-- Communication and Collaboration -->
   <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
 </p>
+
+## Connect with me:
+<div align="center">
+  <a href="https://www.linkedin.com/in/asad-ali-najaf-35102720b/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20Me%20on-LinkedIn-blue?style=for-the-badge" alt="LinkedIn Follow" />
+  </a>
+<!--   &nbsp;&nbsp;
+  <a href="https://x.com/Ranazain546" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/Ranazain546.svg?style=social" alt="X Follow" />
+  </a> -->
+</div>
 
 <!--
 <p align="center">
