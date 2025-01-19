@@ -31,15 +31,15 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 <!-- <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" /> -->
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
+ <!-- <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" /> -->
 <!-- <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" /> -->
-  <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-FF5F00?style=flat-square&logo=zustand&logoColor=white" />
-  <img alt="Zod" src="https://img.shields.io/badge/-Zod-2E5F9E?style=flat-square&logo=zod&logoColor=white" />
+<!--   <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-FF5F00?style=flat-square&logo=zustand&logoColor=white" /> -->
+<!--   <img alt="Zod" src="https://img.shields.io/badge/-Zod-2E5F9E?style=flat-square&logo=zod&logoColor=white" /> -->
   <!-- Backend Development -->
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white" />
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<!--   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" /> -->
+<!--   <img alt="Prisma" src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" /> -->
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
  <!-- <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> -->
  <!-- <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" /> -->
@@ -47,10 +47,10 @@
   <!-- Styling and UI Libraries -->
   <img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7953b3?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
+<!--  <img alt="Material UI" src="https://img.shields.io/badge/-Material%20UI-0081CB?style=flat-square&logo=material-ui&logoColor=white" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white" />
   <img alt="Daisy UI" src="https://img.shields.io/badge/-Daisy%20UI-7A5E99?style=flat-square&logo=daisyui&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" /> -->
 
   <!-- DevOps and Deployment -->
 <!-- <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -62,13 +62,13 @@
   <img alt="Vitest" src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" />
   <!-- Tools -->
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
- <!-- <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" /> -->
+ <!-- <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
- <!-- <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" /> -->
-  <img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-000000?style=flat-square&logo=websocket&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" /> -->
+ <!-- <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-000000?style=flat-square&logo=websocket&logoColor=white" />  -->
   <!-- Editor -->
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <!-- APIs/Testing -->
