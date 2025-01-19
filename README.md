@@ -73,8 +73,8 @@
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <!-- APIs/Testing -->
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
-  <!-- Communication and Collaboration -->
-  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />
+  <!-- Communication and Collaboration
+  <img alt="Slack" src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack&logoColor=white" />  -->
 </p>
 
 ## Connect with me:
