@@ -13,8 +13,7 @@
 
 
 
-🌟 "Crafting Ideas into Code" 🌟
-💻 Passionate Full-Stack Developer | 🛠️ Problem Solver | 🚀 Tech Enthusiast
+🌟 "Crafting Ideas into Code" 🌟 | 💻 Passionate Full-Stack Developer | 🛠️ Problem Solver | 🚀 Tech Enthusiast
 
 ## 🚀 Technologies I Specialize In
 
