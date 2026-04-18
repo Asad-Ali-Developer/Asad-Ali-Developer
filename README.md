@@ -132,8 +132,8 @@
 </p>
 -->
 
-<div>
-<h2 align="center">⚡Stats </h2>
+<!-- <div> -->
+<!-- <h2 align="center">⚡Stats </h2> -->
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=zain546&show_icons=true&locale=en&theme=tokyonight" alt="Zain" /></p> -->
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=/Asad-Ali-Developer&&theme=tokyonight" alt="Zain" /></p>
-</div>
+<!-- <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=/Asad-Ali-Developer&&theme=tokyonight" alt="Zain" /></p> -->
+<!-- </div> -->
