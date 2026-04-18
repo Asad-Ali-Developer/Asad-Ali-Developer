@@ -1,6 +1,6 @@
 ### Hi there ...
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;I'm+Zain;Happy+Coding!+%F0%9F%91%8D)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=500&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=🙋🏻‍♂️Welcome+to+My+Profile!;I'm+Asad;Happy+Coding!+%F0%9F%91%8D)
 
 
 <!-- <p align="center"> -->
