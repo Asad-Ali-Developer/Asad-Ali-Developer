@@ -70,9 +70,9 @@
 
   <img alt="React-Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react-query&logoColor=white" />
   <img alt="Zod" src="https://img.shields.io/badge/-Zod-2E5F9E?style=flat-square&logo=zod&logoColor=white" />
-  <img alt="Formik" src="https://img.shields.io/badge/-Formik-3E7DFF?style=flat-square&logo=formik&logoColor=white" />
   <img alt="Zustand" src="https://img.shields.io/badge/-Zustand-FF5F00?style=flat-square&logo=zustand&logoColor=white" />
  <!-- <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Formik" src="https://img.shields.io/badge/-Formik-3E7DFF?style=flat-square&logo=formik&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=Yarn&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
